@@ -116,8 +116,11 @@ $(document).ready(function() {
                 localStorage.setItem("cities", JSON.stringify(cities));
             } else {
                 cities.push(newInput);
+                cities.sort()
+                
                 localStorage.setItem("cities", JSON.stringify(cities));
             };
+            
         };
     };
 

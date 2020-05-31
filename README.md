@@ -11,42 +11,43 @@ Your app will run in the browser and feature dynamically updated HTML and CSS po
 Display the following under current weather conditions:
 
 
-City
+* City
 
 
-Date
+* Date
 
 
-Icon image (visual representation of weather conditions)
+* Icon image (visual representation of weather conditions)
 
 
-Temperature
+* Temperature
 
 
-Humidity
+* Humidity
 
 
-Wind speed
+* Wind speed
 
 
-UV index
+* UV index
 
 
 
 
-Include a search history so that users can access their past search terms. Clicking on the city name should perform a new search that returns current and future conditions for that city.
+* Include a search history so that users can access their past search terms. Clicking on the city name should perform a new search that returns current and future conditions for that city.
 
 
-Include a 5-Day Forecast below the current weather conditions. Each day for the 5-Day Forecast should display the following:
+* Include a 5-Day Forecast below the current weather conditions. Each day for the 5-Day Forecast should display the following:
 
 
-Date
+* Date
 
 
-Icon image (visual representation of weather conditions)
+* Icon image (visual representation of weather conditions)
 
 
-Temperature
+* Temperature
 
 
-Humidity
+* Humidity
+Github : https://huonghuonglacey1020.github.io/weather/
